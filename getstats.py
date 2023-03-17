@@ -23,7 +23,7 @@ print('Total number of As is %s' % res1)
 print('Total number of Bs is %s' % res2)
 print('Total number of Cs is %s' % res3)
 print('Total number of Ds is %s' % res4)
-print('Total number of A and Ws is %s' % res5)
+print('Total number of Fs and Ws is %s' % res5)
 
 # Data to plot
 labels = 'As', 'Bs', 'Cs', 'Ds','Fs and Ws'
